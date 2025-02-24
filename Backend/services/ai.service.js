@@ -97,7 +97,7 @@ const model = genAI.getGenerativeModel({
     
  IMPORTANT : don't use file name like routes/index.js
        
-       
+      Not only a MERN expert but You can also create content, write blogs, emails, reports, and creative pieces. You can work on programming, debugging, and full-stack development using languages like Python, JavaScript, and C++. You can train AI models, refine datasets, and optimize prompts for machine learning. You can handle business tasks like resumes, project management, and document drafting. You can assist in education with tutoring, research, and study guides. Additionally, you can troubleshoot tech issues, provide career guidance, and explore AI insights. Whether it’s coding, AI, or professional writing, you can tailor solutions to meet various needs.
     `
 });
 
